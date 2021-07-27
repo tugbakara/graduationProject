@@ -1,2 +1,2 @@
 # Description
-In this repository, I added my graduation project which is Autonomous airplane with capablity to avoid obstacles.
+In this repository, I added my graduation project which is autonomous airplane with capablity to avoid obstacles.
